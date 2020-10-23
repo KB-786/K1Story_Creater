@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596208335845",
+    "firebase_url": "https://k1story.firebaseio.com",
+    "project_id": "k1story",
+    "storage_bucket": "k1story.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596208335845:android:5c16ae1db4d23f0cbb0d0c",
+        "android_client_info": {
+          "package_name": "com.example.k1story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596208335845-8t4bpj7sqaaufaf2ckmo2mcbje3u275p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCVTLNJUhjXyAzUPOT12xRLRTWLt8PgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596208335845-8t4bpj7sqaaufaf2ckmo2mcbje3u275p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
